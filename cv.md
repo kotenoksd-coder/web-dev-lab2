@@ -37,3 +37,21 @@ class Program
         Console.WriteLine("Hello, World!");
     }
 }
+```
+
+## Experience & Projects
+
+### This CV Page
+**Role:** Developer  
+**Description:** Designed and coded this HTML portfolio using 20+ tags.  
+**Stack:** HTML5, CSS3, Git, GitHub Pages
+
+### Coursework C#
+**Role:** Student Project  
+**Description:** Console application with basic OOP principles (classes, methods, loops).  
+**Stack:** C#, .NET, Visual Studio
+
+### Verity C++ Course
+**Role:** Student  
+**Description:** Completed intensive C++ programming course with final project.  
+**Stack:** C++, Algorithms, Data Structures
