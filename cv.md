@@ -55,3 +55,7 @@ class Program
 **Role:** Student  
 **Description:** Completed intensive C++ programming course with final project.  
 **Stack:** C++, Algorithms, Data Structures
+
+---
+## Photo
+![Sergienko Katerina](DSC01154.JPG)
