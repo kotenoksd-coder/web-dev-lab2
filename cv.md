@@ -1,4 +1,4 @@
-# ![Sergienko Katerina](DSC01154.JPG)
+# Sergienko Katerina
 **Program Engineering Student @ BRU**
 
 ---
