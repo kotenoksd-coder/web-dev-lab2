@@ -27,7 +27,7 @@ Student at BRU. Learning programming and web development. Motivated to grow and 
 ## Code Example
 Simple C# code:
 
-```csharp
+```
 using System;
 
 class Program
