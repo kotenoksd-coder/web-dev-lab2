@@ -41,3 +41,5 @@ Verity C++ Course
 Role: Student
 Description: Completed intensive C++ programming course with final project.
 Stack: C++, Algorithms, Data Structures
+
+![Sergienko Katerina](DSC01154.JPG)
